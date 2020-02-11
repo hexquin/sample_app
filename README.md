@@ -9,6 +9,7 @@ All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/) 
 To get started with the app, clone the repo and then install the needed gems:
 ```
 $ bundle install --without production
+```
 Next, migrate the database:
 ```
 $ rails db:migrate
