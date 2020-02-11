@@ -1,0 +1,1 @@
+## The sample app of Rails Tutorial 6th edition with Rails 6
